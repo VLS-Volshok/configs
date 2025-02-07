@@ -7,7 +7,11 @@ local scenariodata = {
 	isnew = true,
 	imagepath		= "scenario032.png", -- placed next to lua file, should be 3:1 ratio banner style
 	imageflavor		= "imageflavor", -- This text will be drawn over image
-    summary         = [[summary]],
+    summary         = [[1. Establish a base on Folsom Planum.
+
+2. Locate and secure RS-PK981
+ 
+3. Defend your Commander Chassis while Gideon accesses the station.]],
 	briefing 		= [[[Blackout] Damn it. No data, no drive, just wreckage. and we're burning time we don’t have.
  
 [Pipes] The lack of data isn't as concerning as what we saw. Blackout, sir, those Armada units were fighting each other, fortifying random areas, and leaving metal rusting in the dirt. Why?
