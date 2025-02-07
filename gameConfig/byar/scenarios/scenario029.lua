@@ -15,7 +15,7 @@ local scenariodata = {
 * A4 Sentinel Actuators
  
 2. Do not lose all your units.]],
-	briefing 		= [[Seraphina] Cadet,
+	briefing 		= [[[Seraphina] Cadet,
  
 You have been elected for the Crimson Trial. Within the walled expanse of Titan's Maw, you and your AI assistant will join 15 others in the crucible of combat for the honor of claiming your commander chassis. Only a single cadet shall emerge worthy under the Echelon Code, witnessed by those of us present. "314", introduce yourself.
  
